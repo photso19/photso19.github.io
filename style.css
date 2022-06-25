@@ -1,0 +1,13 @@
+/* this is a comment in CSS */
+
+/*
+https://www.educative.io/answers/class-and-id-selectors-in-css
+*/
+
+.james-photo{
+    width: 600px;
+}
+
+#greetings{
+    color: darkgreen;
+}
